@@ -1,0 +1,17 @@
+{
+    "name": "phpstomp/server",
+    "description": "Pure PHP Reactive Message Queue Server",
+    "type": "project",
+    "require-dev": {
+        "behat/behat": "^3.3",
+        "phpunit/phpunit": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Chepurnyi",
+            "email": "ivan.chepurnyi@ecomdev.org"
+        }
+    ],
+    "require": {}
+}
